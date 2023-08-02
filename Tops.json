@@ -1,0 +1,26 @@
+ [
+        {
+            "title": "Vanilla White Waff...",
+            "price": "Regular Price: Rs. 980",
+            "size": "S",
+            "color": "Blue",
+            "productUrl": "/products/waffles-for-breakfast-crop-white",
+            "image_url": "//lifeandjam.com/cdn/shop/products/90000027279098.jpg?v=1677321465&width=533"
+        },
+        {
+            "title": "Charcoal Butter Ha...",
+            "price": "Regular Price: Rs. 999",
+            "size": "S",
+            "color": "Blue",
+            "productUrl": "/products/your-butter-half-flowy-tank-charcoal",
+            "image_url": "//lifeandjam.com/cdn/shop/products/2_57b08a60-d2aa-4e48-9570-3b2424870549.jpg?v=1677305618&width=533"
+        },
+        {
+            "title": "Lazy Lilac Coconut...",
+            "price": "Regular Price: Rs. 980",
+            "size": "S",
+            "color": "Blue",
+            "productUrl": "/products/coconuts-over-l-j-sleeveless-crop-lilac",
+            "image_url": "//lifeandjam.com/cdn/shop/products/2_22c9987f-c4ee-4b89-8997-badae7d72309.jpg?v=1677322245&width=533"
+        }
+    ]
